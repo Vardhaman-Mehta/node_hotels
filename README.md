@@ -1,21 +1,21 @@
-Node Hotels
+#Node Hotels
 
 This is a Node.js application that connects to a MongoDB database to manage hotel information. Users can create, read, update, and delete hotel data through a RESTful API.
 
-Features
+##Features
 
 Add, update, delete, and view hotel information.
 Search hotels by location or name.
 Handles basic error management and input validation.
 
-Technologies
+##Technologies
 
 Node.js - Backend framework.
 MongoDB - NoSQL database for storing hotel information.
 Express - Web framework for building RESTful APIs.
 Mongoose - ODM library for MongoDB.
 
-Endpoints
+###Endpoints
 1. Get all hotels
 GET /api/hotels
 
