@@ -1,4 +1,4 @@
-![](https://enlivendc.com/wp-content/uploads/2022/03/connect-to-a-mongodb-database-using-node-js.jpg)
+
 
 
 # Node Hotel Application 
