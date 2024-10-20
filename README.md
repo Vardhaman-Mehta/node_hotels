@@ -1,4 +1,4 @@
-![](https://d36ai2hkxl16us.cloudfront.net/thoughtindus…eccba49043/097w0zih4f39-monitoring_course_720.png)
+![](https://enlivendc.com/wp-content/uploads/2022/03/connect-to-a-mongodb-database-using-node-js.jpg)
 
 
 # Node Hotel Application 
